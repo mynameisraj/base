@@ -1,0 +1,28 @@
+html, body, div, span,
+h1, h2, h3, h4, h5, h6,
+p, blockquote, code, img,
+ol, ul, li, form, article,
+aside, canvas, footer, header,
+hgroup, menu, nav, section,
+time, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+article, aside, footer,
+header, hgroup, menu,
+nav, section {
+	display: block;
+}
+
+.clear {
+	clear: both;
+}
+
+body {
+	text-rendering: optimizeLegibility;
+}
