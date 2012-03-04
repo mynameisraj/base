@@ -1,5 +1,3 @@
-/* Main document stylesheet */
-
-body {
-	text-rendering: optimizeLegibility;
+.clear {
+	clear: both;
 }
